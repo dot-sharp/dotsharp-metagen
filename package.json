@@ -1,6 +1,6 @@
 {
     "name": "dotsharp-metagen",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "🚀 A brand new way automated of generating vital meta tags in your Next.JS app, with provisional defaults. Used in DST (DotSharpTemplate).",
     "main": "./dist/index.js",
     "keywords": [
