@@ -1,0 +1,15 @@
+{
+    "name": "dotsharp-metagen",
+    "version": "1.0.0",
+    "description": "🚀 A brand new way automated of generating vital meta tags in your Next.JS app, with provisional defaults. Used in DotSharpTemplate.",
+    "main": "./dist/index.js",
+    "keywords": [
+        "nextjs",
+        "metadata"
+    ],
+    "author": "casparml",
+    "license": "MIT",
+    "devDependencies": {
+        "typescript": "^5.2.2"
+    }
+}
