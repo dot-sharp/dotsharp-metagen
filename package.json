@@ -11,16 +11,5 @@
     "license": "MIT",
     "devDependencies": {
         "typescript": "^5.2.2"
-    },
-    "scripts": {
-        "test": "echo \"Error: no test specified\" && exit 1"
-    },
-    "repository": {
-        "type": "git",
-        "url": "git+https://github.com/dot-sharp/dotsharp-metagen.git"
-    },
-    "bugs": {
-        "url": "https://github.com/dot-sharp/dotsharp-metagen/issues"
-    },
-    "homepage": "https://github.com/dot-sharp/dotsharp-metagen#readme"
+    }
 }
